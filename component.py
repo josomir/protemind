@@ -44,3 +44,4 @@ class Component(ABC):
         "abstract").
         """
         pass
+    
